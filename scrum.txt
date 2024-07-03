@@ -1,0 +1,6 @@
+
+Los actores son el Product Owner,Scrum Master, y team.
+
+Artefactos: Product backlog, sprint backlog.
+
+Ceremonias: Daily,planning,review,retrospective.
